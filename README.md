@@ -1,9 +1,11 @@
 ## Sthefanni Becker 👩‍💻✨
 
 Estudante de Ciência da Computação em busca de oportunidades de estágio em segurança da informação 🔍
+
 Interessada em redes, defesa e boas práticas de segurança
 
 📁 Esse perfil é meu cantinho pra mostrar o que estou desenvolvendo
+
 🤝 Aberta a conexões e oportunidades profissionais
 
 ### 🤖 Linguagens e Tecnologias
